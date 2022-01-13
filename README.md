@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://i.imgur.com/fQJBY8D.jpeg" alt="SPYRO SER" width="500" />
+<img src="" alt="SPYRO SER" width="500" />
 
 # 𝑺𝑷𝒀𝑹𝑶-𝑺𝑬𝑹
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+SPURO-SER+WA+Bot+repo;Created+by+Devalal;This+is+a+Featured+bot;With+Love+SPYRO SER)](https://git.io/typing-svg)
+
 
 </div>
 <p align="center">
