@@ -1,5 +1,5 @@
 <div align="center">
-<img src="" alt="SPYRO SER" width="500" />
+<img src="https://i.imgur.com/DtMPdEb.jpeg" alt="SPYRO SER" width="500" />
 
 # 𝑺𝑷𝒀𝑹𝑶-𝑺𝑬𝑹
 
