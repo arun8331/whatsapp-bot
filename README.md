@@ -13,7 +13,7 @@
 
 ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/spyro-ser-ofc/whatsapp-bot) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/arun8331/whatsapp-bot) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@spyro-ser-ofc/baileys-qr#index.js)
 
